@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Poll Page</title>
+    <!-- Add your CSS and other headers here -->
+</head>
+<body>
+    <!-- Header -->
+    {% include "header.html" %}
+
+    <!-- Content -->
+    <div class="container">
+        {% if message %}
+            <h1>{{ message }}</h1>
+        {% else %}
+            <h1>Poll Page</h1>
+            <!-- Add your poll content here -->
+        {% endif %}
+    </div>
+
+    <!-- Footer -->
+    {% include "footer.html" %}
+
+    <!-- Add your scripts and other footers here -->
+</body>
+</html>

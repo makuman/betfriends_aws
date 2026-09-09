@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Player Standings</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px; /* Add padding on both sides of the page */
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        h1 {
+            margin-bottom: 20px; /* Add space below the heading */
+        }
+    </style>
+</head>
+<body>
+    <h1>Player Standings</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Player Name</th>
+                <th>Total Investment</th>
+                <th>Net Profit</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for player in standings %}
+                <tr>
+                    <td>{{ player.player_name }}</td>
+                    <td>{{ player.total_investment }}</td>
+                    <td>{{ player.net_profit }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html></title>
+</head>
+<body>
+
+</body>
+</html>

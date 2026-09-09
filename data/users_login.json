@@ -1,0 +1,10 @@
+{
+    "admin": {
+        "password": "CHANGE_ME_admin_password",
+        "role": "admin"
+    },
+    "user": {
+        "password": "CHANGE_ME_user_password",
+        "role": "user"
+    }
+}

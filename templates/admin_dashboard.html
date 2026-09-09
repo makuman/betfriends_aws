@@ -1,0 +1,33 @@
+{% include "header.html" %}
+
+<h2>Existing Poll Dates:</h2>
+<ul>
+  {% for date in filter_dates_in %}
+    <li>
+      ID: {{ date['id'] }},
+      Start Date: {{ date['start_date'] }},
+      End Date: {{ date['end_date'] }},
+      Active: {% if date['is_active'] %}Yes{% else %}No{% endif %}
+      <form method="post" action="{{ url_for('delete_date') }}" style="display: inline;">
+        <input type="hidden" name="date_id" value="{{ date['id'] }}">
+        <button type="submit">Delete</button>
+      </form>
+    </li>
+  {% endfor %}
+</ul>
+
+<h2>Add New Date Range:</h2>
+<form method="post">
+  <label for="new_start_date">New Start Date:</label>
+  <input type="date" id="new_start_date" name="new_start_date" required>
+
+  <label for="new_end_date">New End Date:</label>
+  <input type="date" id="new_end_date" name="new_end_date" required>
+
+  <label for="is_active">Is Active:</label>
+  <input type="checkbox" id="is_active" name="is_active" checked>
+
+  <button type="submit">Add Date Range</button>
+</form>
+
+{% include "footer.html" %}

@@ -1,0 +1,702 @@
+[
+    {
+        "MATCH_NUMBER": "1",
+        "MATCH_DAY": "1",
+        "DATE": "2024-03-22",
+        "DAY": "Fri",
+        "TIME": "8:00PM",
+        "HOME": "Chennai Super Kings",
+        "AWAY": "Royal Challengers Bengaluru",
+        "STADIUM": "Chennai"
+    },
+    {
+        "MATCH_NUMBER": "2",
+        "MATCH_DAY": "2",
+        "DATE": "2024-03-23",
+        "DAY": "Sat",
+        "TIME": "3:30PM",
+        "HOME": "Punjab Kings",
+        "AWAY": "Delhi Capitals",
+        "STADIUM": "Mullanpur"
+    },
+    {
+        "MATCH_NUMBER": "3",
+        "MATCH_DAY": "2",
+        "DATE": "2024-03-23",
+        "DAY": "Sat",
+        "TIME": "7:30PM",
+        "HOME": "Kolkata Knight Riders",
+        "AWAY": "Sunrisers Hyderabad",
+        "STADIUM": "Kolkata"
+    },
+    {
+        "MATCH_NUMBER": "4",
+        "MATCH_DAY": "3",
+        "DATE": "2024-03-24",
+        "DAY": "Sun",
+        "TIME": "3:30PM",
+        "HOME": "Rajasthan Royals",
+        "AWAY": "Lucknow Super Giants",
+        "STADIUM": "Jaipur"
+    },
+    {
+        "MATCH_NUMBER": "5",
+        "MATCH_DAY": "3",
+        "DATE": "2024-03-24",
+        "DAY": "Sun",
+        "TIME": "7:30PM",
+        "HOME": "Gujarat Titans",
+        "AWAY": "Mumbai Indians",
+        "STADIUM": "Ahmedabad"
+    },
+    {
+        "MATCH_NUMBER": "6",
+        "MATCH_DAY": "4",
+        "DATE": "2024-03-25",
+        "DAY": "Mon",
+        "TIME": "7:30PM",
+        "HOME": "Royal Challengers Bengaluru",
+        "AWAY": "Punjab Kings",
+        "STADIUM": "Bengaluru"
+    },
+    {
+        "MATCH_NUMBER": "7",
+        "MATCH_DAY": "5",
+        "DATE": "2024-03-26",
+        "DAY": "Tue",
+        "TIME": "7:30PM",
+        "HOME": "Chennai Super Kings",
+        "AWAY": "Gujarat Titans",
+        "STADIUM": "Chennai"
+    },
+    {
+        "MATCH_NUMBER": "8",
+        "MATCH_DAY": "6",
+        "DATE": "2024-03-27",
+        "DAY": "Wed",
+        "TIME": "7:30PM",
+        "HOME": "Sunrisers Hyderabad",
+        "AWAY": "Mumbai Indians",
+        "STADIUM": "Hyderabad"
+    },
+    {
+        "MATCH_NUMBER": "9",
+        "MATCH_DAY": "7",
+        "DATE": "2024-03-28",
+        "DAY": "Thu",
+        "TIME": "7:30PM",
+        "HOME": "Rajasthan Royals",
+        "AWAY": "Delhi Capitals",
+        "STADIUM": "Jaipur"
+    },
+    {
+        "MATCH_NUMBER": "10",
+        "MATCH_DAY": "8",
+        "DATE": "2024-03-29",
+        "DAY": "Fri",
+        "TIME": "7:30PM",
+        "HOME": "Royal Challengers Bengaluru",
+        "AWAY": "Kolkata Knight Riders",
+        "STADIUM": "Bengaluru"
+    },
+    {
+        "MATCH_NUMBER": "11",
+        "MATCH_DAY": "9",
+        "DATE": "2024-03-30",
+        "DAY": "Sat",
+        "TIME": "7:30PM",
+        "HOME": "Lucknow Super Giants",
+        "AWAY": "Punjab Kings",
+        "STADIUM": "Lucknow"
+    },
+    {
+        "MATCH_NUMBER": "12",
+        "MATCH_DAY": "10",
+        "DATE": "2024-03-31",
+        "DAY": "Sun",
+        "TIME": "3:30PM",
+        "HOME": "Gujarat Titans",
+        "AWAY": "Sunrisers Hyderabad",
+        "STADIUM": "Ahmedabad"
+    },
+    {
+        "MATCH_NUMBER": "13",
+        "MATCH_DAY": "10",
+        "DATE": "2024-03-31",
+        "DAY": "Sun",
+        "TIME": "7:30PM",
+        "HOME": "Delhi Capitals",
+        "AWAY": "Chennai Super Kings",
+        "STADIUM": "Visakhapatnam"
+    },
+    {
+        "MATCH_NUMBER": "14",
+        "MATCH_DAY": "11",
+        "DATE": "2024-04-01",
+        "DAY": "Mon",
+        "TIME": "7:30PM",
+        "HOME": "Mumbai Indians",
+        "AWAY": "Rajasthan Royals",
+        "STADIUM": "Mumbai"
+    },
+    {
+        "MATCH_NUMBER": "15",
+        "MATCH_DAY": "12",
+        "DATE": "2024-04-02",
+        "DAY": "Tue",
+        "TIME": "7:30PM",
+        "HOME": "Royal Challengers Bengaluru",
+        "AWAY": "Lucknow Super Giants",
+        "STADIUM": "Bengaluru"
+    },
+    {
+        "MATCH_NUMBER": "16",
+        "MATCH_DAY": "13",
+        "DATE": "2024-04-03",
+        "DAY": "Wed",
+        "TIME": "7:30PM",
+        "HOME": "Delhi Capitals",
+        "AWAY": "Kolkata Knight Riders",
+        "STADIUM": "Visakhapatnam"
+    },
+    {
+        "MATCH_NUMBER": "17",
+        "MATCH_DAY": "14",
+        "DATE": "2024-04-04",
+        "DAY": "Thu",
+        "TIME": "7:30PM",
+        "HOME": "Gujarat Titans",
+        "AWAY": "Punjab Kings",
+        "STADIUM": "Ahmedabad"
+    },
+    {
+        "MATCH_NUMBER": "18",
+        "MATCH_DAY": "15",
+        "DATE": "2024-04-05",
+        "DAY": "Fri",
+        "TIME": "7:30PM",
+        "HOME": "Sunrisers Hyderabad",
+        "AWAY": "Chennai Super Kings",
+        "STADIUM": "Hyderabad"
+    },
+    {
+        "MATCH_NUMBER": "19",
+        "MATCH_DAY": "16",
+        "DATE": "2024-04-06",
+        "DAY": "Sat",
+        "TIME": "7:30PM",
+        "HOME": "Rajasthan Royals",
+        "AWAY": "Royal Challengers Bengaluru",
+        "STADIUM": "Jaipur"
+    },
+    {
+        "MATCH_NUMBER": "20",
+        "MATCH_DAY": "17",
+        "DATE": "2024-04-07",
+        "DAY": "Sun",
+        "TIME": "3:30PM",
+        "HOME": "Mumbai Indians",
+        "AWAY": "Delhi Capitals",
+        "STADIUM": "Mumbai"
+    },
+    {
+        "MATCH_NUMBER": "21",
+        "MATCH_DAY": "17",
+        "DATE": "2024-04-07",
+        "DAY": "Sun",
+        "TIME": "7:30PM",
+        "HOME": "Lucknow Super Giants",
+        "AWAY": "Gujarat Titans",
+        "STADIUM": "Lucknow"
+    },
+    {
+        "MATCH_NUMBER": "22",
+        "MATCH_DAY": "18",
+        "DATE": "2024-04-08",
+        "DAY": "Mon",
+        "TIME": "7:30PM",
+        "HOME": "Chennai Super Kings",
+        "AWAY": "Kolkata Knight Riders",
+        "STADIUM": "Chennai"
+    },
+    {
+        "MATCH_NUMBER": "23",
+        "MATCH_DAY": "19",
+        "DATE": "2024-04-09",
+        "DAY": "Tue",
+        "TIME": "7:30PM",
+        "HOME": "Punjab Kings",
+        "AWAY": "Sunrisers Hyderabad",
+        "STADIUM": "Mullanpur"
+    },
+    {
+        "MATCH_NUMBER": "24",
+        "MATCH_DAY": "20",
+        "DATE": "2024-04-10",
+        "DAY": "Wed",
+        "TIME": "7:30PM",
+        "HOME": "Rajasthan Royals",
+        "AWAY": "Gujarat Titans",
+        "STADIUM": "Jaipur"
+    },
+    {
+        "MATCH_NUMBER": "25",
+        "MATCH_DAY": "21",
+        "DATE": "2024-04-11",
+        "DAY": "Thu",
+        "TIME": "7:30PM",
+        "HOME": "Mumbai Indians",
+        "AWAY": "Royal Challengers Bengaluru",
+        "STADIUM": "Mumbai"
+    },
+    {
+        "MATCH_NUMBER": "26",
+        "MATCH_DAY": "22",
+        "DATE": "2024-04-12",
+        "DAY": "Fri",
+        "TIME": "7:30PM",
+        "HOME": "Lucknow Super",
+        "AWAY": "Giants Delhi Capitals",
+        "STADIUM": "Lucknow"
+    },
+    {
+        "MATCH_NUMBER": "27",
+        "MATCH_DAY": "23",
+        "DATE": "2024-04-13",
+        "DAY": "Sat",
+        "TIME": "7:30PM",
+        "HOME": "Punjab Kings",
+        "AWAY": "Rajasthan Royals",
+        "STADIUM": "Mullanpur"
+    },
+    {
+        "MATCH_NUMBER": "28",
+        "MATCH_DAY": "24",
+        "DATE": "2024-04-14",
+        "DAY": "Sun",
+        "TIME": "3:30PM",
+        "HOME": "Kolkata Knight Riders",
+        "AWAY": "Lucknow Super Giants",
+        "STADIUM": "Kolkata"
+    },
+    {
+        "MATCH_NUMBER": "29",
+        "MATCH_DAY": "24",
+        "DATE": "2024-04-14",
+        "DAY": "Sun",
+        "TIME": "7:30PM",
+        "HOME": "Mumbai Indians",
+        "AWAY": "Chennai Super Kings",
+        "STADIUM": "Mumbai"
+    },
+    {
+        "MATCH_NUMBER": "30",
+        "MATCH_DAY": "25",
+        "DATE": "2024-04-15",
+        "DAY": "Mon",
+        "TIME": "7:30PM",
+        "HOME": "Royal Challengers Bengaluru",
+        "AWAY": "Sunrisers Hyderabad",
+        "STADIUM": "Bengaluru"
+    },
+    {
+        "MATCH_NUMBER": "31",
+        "MATCH_DAY": "26",
+        "DATE": "2024-04-16",
+        "DAY": "Tue",
+        "TIME": "7:30PM",
+        "HOME": "Gujarat Titans",
+        "AWAY": "Delhi Capitals",
+        "STADIUM": "Ahmedabad"
+    },
+    {
+        "MATCH_NUMBER": "32",
+        "MATCH_DAY": "27",
+        "DATE": "2024-04-17",
+        "DAY": "Wed",
+        "TIME": "7:30PM",
+        "HOME": "Kolkata Knight Riders",
+        "AWAY": "Rajasthan Royals",
+        "STADIUM": "Kolkata"
+    },
+    {
+        "MATCH_NUMBER": "33",
+        "MATCH_DAY": "28",
+        "DATE": "2024-04-18",
+        "DAY": "Thu",
+        "TIME": "7:30PM",
+        "HOME": "Punjab Kings",
+        "AWAY": "Mumbai Indians",
+        "STADIUM": "Mullanpur"
+    },
+    {
+        "MATCH_NUMBER": "34",
+        "MATCH_DAY": "29",
+        "DATE": "2024-04-19",
+        "DAY": "Fri",
+        "TIME": "7:30PM",
+        "HOME": "Lucknow Super Giants",
+        "AWAY": "Chennai Super Kings",
+        "STADIUM": "Lucknow"
+    },
+    {
+        "MATCH_NUMBER": "35",
+        "MATCH_DAY": "30",
+        "DATE": "2024-04-20",
+        "DAY": "Sat",
+        "TIME": "7:30PM",
+        "HOME": "Delhi Capitals",
+        "AWAY": "Sunrisers Hyderabad",
+        "STADIUM": "Delhi"
+    },
+    {
+        "MATCH_NUMBER": "36",
+        "MATCH_DAY": "31",
+        "DATE": "2024-04-21",
+        "DAY": "Sun",
+        "TIME": "3:30PM",
+        "HOME": "Kolkata Knight Riders",
+        "AWAY": "Royal Challengers Bengaluru",
+        "STADIUM": "Kolkata"
+    },
+    {
+        "MATCH_NUMBER": "37",
+        "MATCH_DAY": "31",
+        "DATE": "2024-04-21",
+        "DAY": "Sun",
+        "TIME": "7:30PM",
+        "HOME": "Punjab Kings",
+        "AWAY": "Gujarat Titans",
+        "STADIUM": "Mullanpur"
+    },
+    {
+        "MATCH_NUMBER": "38",
+        "MATCH_DAY": "32",
+        "DATE": "2024-04-22",
+        "DAY": "Mon",
+        "TIME": "7:30PM",
+        "HOME": "Rajasthan Royals",
+        "AWAY": "Mumbai Indians",
+        "STADIUM": "Jaipur"
+    },
+    {
+        "MATCH_NUMBER": "39",
+        "MATCH_DAY": "33",
+        "DATE": "2024-04-23",
+        "DAY": "Tue",
+        "TIME": "7:30PM",
+        "HOME": "Chennai Super Kings",
+        "AWAY": "Lucknow Super Giants",
+        "STADIUM": "Chennai"
+    },
+    {
+        "MATCH_NUMBER": "40",
+        "MATCH_DAY": "34",
+        "DATE": "2024-04-24",
+        "DAY": "Wed",
+        "TIME": "7:30PM",
+        "HOME": "Delhi Capitals",
+        "AWAY": "Gujarat Titans",
+        "STADIUM": "Delhi"
+    },
+    {
+        "MATCH_NUMBER": "41",
+        "MATCH_DAY": "35",
+        "DATE": "2024-04-25",
+        "DAY": "Thu",
+        "TIME": "7:30PM",
+        "HOME": "Sunrisers Hyderabad",
+        "AWAY": "Royal Challengers Bengaluru",
+        "STADIUM": "Hyderabad"
+    },
+    {
+        "MATCH_NUMBER": "42",
+        "MATCH_DAY": "36",
+        "DATE": "2024-04-26",
+        "DAY": "Fri",
+        "TIME": "7:30PM",
+        "HOME": "Kolkata Knight Riders",
+        "AWAY": "Punjab Kings",
+        "STADIUM": "Kolkata"
+    },
+    {
+        "MATCH_NUMBER": "43",
+        "MATCH_DAY": "37",
+        "DATE": "2024-04-27",
+        "DAY": "Sat",
+        "TIME": "3:30PM",
+        "HOME": "Delhi Capitals",
+        "AWAY": "Mumbai Indians",
+        "STADIUM": "Delhi"
+    },
+    {
+        "MATCH_NUMBER": "44",
+        "MATCH_DAY": "37",
+        "DATE": "2024-04-27",
+        "DAY": "Sat",
+        "TIME": "7:30PM",
+        "HOME": "Lucknow Super Giants",
+        "AWAY": "Rajasthan Royals",
+        "STADIUM": "Lucknow"
+    },
+    {
+        "MATCH_NUMBER": "45",
+        "MATCH_DAY": "38",
+        "DATE": "2024-04-28",
+        "DAY": "Sun",
+        "TIME": "3:30PM",
+        "HOME": "Gujarat Titans",
+        "AWAY": "Royal Challengers Bengaluru",
+        "STADIUM": "Ahmedabad"
+    },
+    {
+        "MATCH_NUMBER": "46",
+        "MATCH_DAY": "38",
+        "DATE": "2024-04-28",
+        "DAY": "Sun",
+        "TIME": "7:30PM",
+        "HOME": "Chennai Super Kings",
+        "AWAY": "Sunrisers Hyderabad",
+        "STADIUM": "Chennai"
+    },
+    {
+        "MATCH_NUMBER": "47",
+        "MATCH_DAY": "39",
+        "DATE": "2024-04-29",
+        "DAY": "Mon",
+        "TIME": "7:30PM",
+        "HOME": "Kolkata Knight Riders",
+        "AWAY": "Delhi Capitals",
+        "STADIUM": "Kolkata"
+    },
+    {
+        "MATCH_NUMBER": "48",
+        "MATCH_DAY": "40",
+        "DATE": "2024-04-30",
+        "DAY": "Tue",
+        "TIME": "7:30PM",
+        "HOME": "Lucknow Super Giants",
+        "AWAY": "Mumbai Indians",
+        "STADIUM": "Lucknow"
+    },
+    {
+        "MATCH_NUMBER": "49",
+        "MATCH_DAY": "41",
+        "DATE": "2024-05-01",
+        "DAY": "Wed",
+        "TIME": "7:30PM",
+        "HOME": "Chennai Super Kings",
+        "AWAY": "Punjab Kings",
+        "STADIUM": "Chennai"
+    },
+    {
+        "MATCH_NUMBER": "50",
+        "MATCH_DAY": "42",
+        "DATE": "2024-05-02",
+        "DAY": "Thu",
+        "TIME": "7:30PM",
+        "HOME": "Sunrisers Hyderabad",
+        "AWAY": "Rajasthan Royals",
+        "STADIUM": "Hyderabad"
+    },
+    {
+        "MATCH_NUMBER": "51",
+        "MATCH_DAY": "43",
+        "DATE": "2024-05-03",
+        "DAY": "Fri",
+        "TIME": "7:30PM",
+        "HOME": "Mumbai Indians",
+        "AWAY": "Kolkata Knight Riders",
+        "STADIUM": "Mumbai"
+    },
+    {
+        "MATCH_NUMBER": "52",
+        "MATCH_DAY": "44",
+        "DATE": "2024-05-04",
+        "DAY": "Sat",
+        "TIME": "7:30PM",
+        "HOME": "Royal Challengers Bengaluru",
+        "AWAY": "Gujarat Titans",
+        "STADIUM": "Bengaluru"
+    },
+    {
+        "MATCH_NUMBER": "53",
+        "MATCH_DAY": "45",
+        "DATE": "2024-05-05",
+        "DAY": "Sun",
+        "TIME": "3:30PM",
+        "HOME": "Punjab Kings",
+        "AWAY": "Chennai Super Kings",
+        "STADIUM": "Dharamshala"
+    },
+    {
+        "MATCH_NUMBER": "54",
+        "MATCH_DAY": "45",
+        "DATE": "2024-05-05",
+        "DAY": "Sun",
+        "TIME": "7:30PM",
+        "HOME": "Lucknow Super Giants",
+        "AWAY": "Kolkata Knight Riders",
+        "STADIUM": "Lucknow"
+    },
+    {
+        "MATCH_NUMBER": "55",
+        "MATCH_DAY": "46",
+        "DATE": "2024-05-06",
+        "DAY": "Mon",
+        "TIME": "7:30PM",
+        "HOME": "Mumbai Indians",
+        "AWAY": "Sunrisers Hyderabad",
+        "STADIUM": "Mumbai"
+    },
+    {
+        "MATCH_NUMBER": "56",
+        "MATCH_DAY": "47",
+        "DATE": "2024-05-07",
+        "DAY": "Tue",
+        "TIME": "7:30PM",
+        "HOME": "Delhi Capitals",
+        "AWAY": "Rajasthan Royals",
+        "STADIUM": "Delhi"
+    },
+    {
+        "MATCH_NUMBER": "57",
+        "MATCH_DAY": "48",
+        "DATE": "2024-05-08",
+        "DAY": "Wed",
+        "TIME": "7:30PM",
+        "HOME": "Sunrisers Hyderabad",
+        "AWAY": "Lucknow Super Giants",
+        "STADIUM": "Hyderabad"
+    },
+    {
+        "MATCH_NUMBER": "58",
+        "MATCH_DAY": "49",
+        "DATE": "2024-05-09",
+        "DAY": "Thu",
+        "TIME": "7:30PM",
+        "HOME": "Punjab Kings",
+        "AWAY": "Royal Challengers Bengaluru",
+        "STADIUM": "Dharamshala"
+    },
+    {
+        "MATCH_NUMBER": "59",
+        "MATCH_DAY": "50",
+        "DATE": "2024-05-10",
+        "DAY": "Fri",
+        "TIME": "7:30PM",
+        "HOME": "Gujarat Titans",
+        "AWAY": "Chennai Super Kings",
+        "STADIUM": "Ahmedabad"
+    },
+    {
+        "MATCH_NUMBER": "60",
+        "MATCH_DAY": "51",
+        "DATE": "2024-05-11",
+        "DAY": "Sat",
+        "TIME": "7:30PM",
+        "HOME": "Kolkata Knight Riders",
+        "AWAY": "Mumbai Indians",
+        "STADIUM": "Kolkata"
+    },
+    {
+        "MATCH_NUMBER": "61",
+        "MATCH_DAY": "52",
+        "DATE": "2024-05-12",
+        "DAY": "Sun",
+        "TIME": "3:30PM",
+        "HOME": "Chennai Super Kings",
+        "AWAY": "Rajasthan Royals",
+        "STADIUM": "Chennai"
+    },
+    {
+        "MATCH_NUMBER": "62",
+        "MATCH_DAY": "52",
+        "DATE": "2024-05-12",
+        "DAY": "Sun",
+        "TIME": "7:30PM",
+        "HOME": "Royal Challengers Bengaluru",
+        "AWAY": "Delhi Capitals",
+        "STADIUM": "Bengaluru"
+    },
+    {
+        "MATCH_NUMBER": "63",
+        "MATCH_DAY": "53",
+        "DATE": "2024-05-13",
+        "DAY": "Mon",
+        "TIME": "7:30PM",
+        "HOME": "Gujarat Titans",
+        "AWAY": "Kolkata Knight Riders",
+        "STADIUM": "Ahmedabad"
+    },
+    {
+        "MATCH_NUMBER": "64",
+        "MATCH_DAY": "54",
+        "DATE": "2024-05-14",
+        "DAY": "Tue",
+        "TIME": "7:30PM",
+        "HOME": "Delhi Capitals",
+        "AWAY": "Lucknow Super Giants",
+        "STADIUM": "Delhi"
+    },
+    {
+        "MATCH_NUMBER": "65",
+        "MATCH_DAY": "55",
+        "DATE": "2024-05-15",
+        "DAY": "Wed",
+        "TIME": "7:30PM",
+        "HOME": "Rajasthan Royals",
+        "AWAY": "Punjab Kings",
+        "STADIUM": "Guwahai"
+    },
+    {
+        "MATCH_NUMBER": "66",
+        "MATCH_DAY": "56",
+        "DATE": "2024-05-16",
+        "DAY": "Thu",
+        "TIME": "7:30PM",
+        "HOME": "Sunrisers Hyderabad",
+        "AWAY": "Gujarat Titans",
+        "STADIUM": "Hyderabad"
+    },
+    {
+        "MATCH_NUMBER": "67",
+        "MATCH_DAY": "57",
+        "DATE": "2024-05-17",
+        "DAY": "Fri",
+        "TIME": "7:30PM",
+        "HOME": "Mumbai Indians",
+        "AWAY": "Lucknow Super Giants",
+        "STADIUM": "Mumbai"
+    },
+    {
+        "MATCH_NUMBER": "68",
+        "MATCH_DAY": "58",
+        "DATE": "2024-05-18",
+        "DAY": "Sat",
+        "TIME": "7:30PM",
+        "HOME": "Royal Challengers Bengaluru",
+        "AWAY": "Chennai Super Kings",
+        "STADIUM": "Bengaluru"
+    },
+    {
+        "MATCH_NUMBER": "69",
+        "MATCH_DAY": "59",
+        "DATE": "2024-05-19",
+        "DAY": "Sun",
+        "TIME": "3:30PM",
+        "HOME": "Sunrisers Hyderabad",
+        "AWAY": "Punjab Kings",
+        "STADIUM": "Hyderabad"
+    },
+    {
+        "MATCH_NUMBER": "70",
+        "MATCH_DAY": "59",
+        "DATE": "2024-05-19",
+        "DAY": "Sun",
+        "TIME": "7:30PM",
+        "HOME": "Rajasthan Royals",
+        "AWAY": "Kolkata Knight Riders",
+        "STADIUM": "Guwaha"
+    }
+]

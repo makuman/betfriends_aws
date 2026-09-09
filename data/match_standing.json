@@ -1,0 +1,302 @@
+[
+    {
+        "match_number": 14,
+        "date": "2024-04-01",
+        "name": "Mumbai Indians vs Rajasthan Royals, 14th Match",
+        "status": "Rajasthan Royals won by 6 wkts",
+        "item": {
+            "id": "d179876c-6b2d-4d39-9931-c8fcbefb4456",
+            "matchType": "t20",
+            "status": "Rajasthan Royals won by 6 wkts",
+            "venue": "Wankhede Stadium, Mumbai",
+            "date": "2024-04-01",
+            "dateTimeGMT": "2024-04-01T14:00:00",
+            "teams": [
+                "Mumbai Indians",
+                "Rajasthan Royals"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Mumbai Indians",
+                    "shortname": "MI",
+                    "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48"
+                },
+                {
+                    "name": "Rajasthan Royals",
+                    "shortname": "RR",
+                    "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 125,
+                    "w": 9,
+                    "o": 20,
+                    "inning": "Mumbai Indians Inning 1"
+                },
+                {
+                    "r": 127,
+                    "w": 4,
+                    "o": 15.3,
+                    "inning": "Rajasthan Royals Inning 1"
+                }
+            ],
+            "series_id": "76ae85e2-88e5-4e99-83e4-5f352108aebc",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        }
+    },
+    {
+        "match_number": 13,
+        "date": "2024-03-31",
+        "name": "Delhi Capitals vs Chennai Super Kings, 13th Match",
+        "status": "Delhi Capitals won by 20 runs",
+        "item": {
+            "id": "a7611f25-482a-498c-a424-a4523cd92ffe",
+            "matchType": "t20",
+            "status": "Delhi Capitals won by 20 runs",
+            "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+            "date": "2024-03-31",
+            "dateTimeGMT": "2024-03-31T14:00:00",
+            "teams": [
+                "Delhi Capitals",
+                "Chennai Super Kings"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Chennai Super Kings",
+                    "shortname": "CSK",
+                    "img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48"
+                },
+                {
+                    "name": "Delhi Capitals",
+                    "shortname": "DC",
+                    "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 191,
+                    "w": 5,
+                    "o": 20,
+                    "inning": "Delhi Capitals Inning 1"
+                },
+                {
+                    "r": 171,
+                    "w": 6,
+                    "o": 20,
+                    "inning": "Chennai Super Kings Inning 1"
+                }
+            ],
+            "series_id": "76ae85e2-88e5-4e99-83e4-5f352108aebc",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        }
+    },
+    {
+        "match_number": 12,
+        "date": "2024-03-31",
+        "name": "Gujarat Titans vs Sunrisers Hyderabad, 12th Match",
+        "status": "Gujarat Titans won by 7 wkts",
+        "item": {
+            "id": "14bdf792-cb62-4bc4-b136-c070e15885ac",
+            "matchType": "t20",
+            "status": "Gujarat Titans won by 7 wkts",
+            "venue": "Narendra Modi Stadium, Ahmedabad",
+            "date": "2024-03-31",
+            "dateTimeGMT": "2024-03-31T10:00:00",
+            "teams": [
+                "Gujarat Titans",
+                "Sunrisers Hyderabad"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Gujarat Titans",
+                    "shortname": "GT",
+                    "img": "https://g.cricapi.com/iapi/172-637852957798476823.png?w=48"
+                },
+                {
+                    "name": "Sunrisers Hyderabad",
+                    "shortname": "SRH",
+                    "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 162,
+                    "w": 8,
+                    "o": 20,
+                    "inning": "Sunrisers Hyderabad Inning 1"
+                },
+                {
+                    "r": 168,
+                    "w": 3,
+                    "o": 19.1,
+                    "inning": "Gujarat Titans Inning 1"
+                }
+            ],
+            "series_id": "76ae85e2-88e5-4e99-83e4-5f352108aebc",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        }
+    },
+    {
+        "match_number": 11,
+        "date": "2024-03-30",
+        "name": "Lucknow Super Giants vs Punjab Kings, 11th Match",
+        "status": "Lucknow Super Giants won by 21 runs",
+        "item": {
+            "id": "66a4be49-d980-42a5-a2a5-251907cbbaf3",
+            "matchType": "t20",
+            "status": "Lucknow Super Giants won by 21 runs",
+            "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+            "date": "2024-03-30",
+            "dateTimeGMT": "2024-03-30T14:00:00",
+            "teams": [
+                "Lucknow Super Giants",
+                "Punjab Kings"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Lucknow Super Giants",
+                    "shortname": "LSG",
+                    "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48"
+                },
+                {
+                    "name": "Punjab Kings",
+                    "shortname": "PBKS",
+                    "img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 199,
+                    "w": 8,
+                    "o": 20,
+                    "inning": "Lucknow Super Giants Inning 1"
+                },
+                {
+                    "r": 178,
+                    "w": 5,
+                    "o": 20,
+                    "inning": "Punjab Kings Inning 1"
+                }
+            ],
+            "series_id": "76ae85e2-88e5-4e99-83e4-5f352108aebc",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        }
+    },
+    {
+        "match_number": 15,
+        "date": "2024-04-02",
+        "name": "Royal Challengers Bengaluru vs Lucknow Super Giants, 15th Match",
+        "status": "Lucknow Super Giants won by 28 runs",
+        "item": {
+            "id": "90e60cb7-57f1-4ce3-9104-ff8ed0119f4b",
+            "matchType": "t20",
+            "status": "Lucknow Super Giants won by 28 runs",
+            "venue": "M.Chinnaswamy Stadium, Bengaluru",
+            "date": "2024-04-02",
+            "dateTimeGMT": "2024-04-02T14:00:00",
+            "teams": [
+                "Royal Challengers Bengaluru",
+                "Lucknow Super Giants"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Lucknow Super Giants",
+                    "shortname": "LSG",
+                    "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48"
+                },
+                {
+                    "name": "Royal Challengers Bengaluru",
+                    "shortname": "RCB",
+                    "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 181,
+                    "w": 5,
+                    "o": 20,
+                    "inning": "Lucknow Super Giants Inning 1"
+                },
+                {
+                    "r": 153,
+                    "w": 10,
+                    "o": 19.4,
+                    "inning": "Royal Challengers Bengaluru Inning 1"
+                }
+            ],
+            "series_id": "76ae85e2-88e5-4e99-83e4-5f352108aebc",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        }
+    },
+    {
+        "match_number": 16,
+        "date": "2024-04-03",
+        "name": "Delhi Capitals vs Kolkata Knight Riders, 16th Match",
+        "status": "Kolkata Knight Riders won by 106 runs",
+        "item": {
+            "id": "90e60cb7-57f1-4ce3-9104-ff8ed0119f4b",
+            "matchType": "t20",
+            "status": "Kolkata Knight Riders won by 106 runs",
+            "venue": "Visakhapatnam",
+            "date": "2024-04-03",
+            "dateTimeGMT": "2024-04-03T14:00:00",
+            "teams": [
+                "Delhi Capitals",
+                "Kolkata Knight Riders"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Delhi Capitals",
+                    "shortname": "DC",
+                    "img": "https://g.cricapi.com/iapi/215-637876059669009476.png?w=48"
+                },
+                {
+                    "name": "Kolkata Knight Riders",
+                    "shortname": "KKR",
+                    "img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 272,
+                    "w": 7,
+                    "o": 20,
+                    "inning": "Kolkata Knight Riders 1"
+                },
+                {
+                    "r": 166,
+                    "w": 10,
+                    "o": 17.2,
+                    "inning": "Delhi Capitals Inning Inning 1"
+                }
+            ],
+            "series_id": "76ae85e2-88e5-4e99-83e4-5f352108aebc",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        }
+    }
+]

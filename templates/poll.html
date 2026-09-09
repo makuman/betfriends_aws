@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Poll</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <style>
+        .content {
+            text-align: center;
+            margin: auto; /* Center the content horizontally */
+            max-width: 600px; /* Adjust the maximum width of the content */
+        }
+        .extra-space {
+            margin-top: 40px; /* Adjust the margin as needed */
+        }
+    </style>
+</head>
+<body>
+    {% include "header.html" %}
+    <div class="content">
+        <h1>Match Poll</h1>
+        <form id="pollForm" action="/submit_poll" method="POST">
+            <div class="row">
+                <div class="col-sm-12">
+                    <input type="radio" id="existingPlayerOption" name="playerOption" value="existing" checked>
+                    <label for="existingPlayerOption">Select Existing Player:</label>
+                    <select id="playerOption" name="existing_players" class="form-control">
+                        <option value="">Select existing player</option>
+                        {% for player in existing_players %}
+                            <option value="{{ player }}">{{ player }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12">
+                    <input type="radio" id="newPlayerOption" name="playerOption" value="new">
+                    <label for="newPlayerOption">Enter New Player Name:</label>
+                    <input type="text" id="newPlayer" name="new_player_name" class="form-control" disabled>
+                </div>
+            </div>
+            <br>
+            <div id="pollDates" style="display: none;">
+                {% for index, match in enumerate(poll_data) %}
+                    <h2>{{ match.date }} - Match {{ match.match_number }}</h2>
+                    <input type="hidden" name="date_{{ index }}" value="{{ match.date }}">
+                    <input type="hidden" name="match_{{ index }}" value="{{ match.match_number }}">
+                    <input type="hidden" name="selected_option_{{ index }}" value="{{ selected_options[index] }}">
+                    <label for="team_a_{{ index }}">{{ match.teams[0] }} (H)</label>
+                    <input type="radio" id="team_a_{{ index }}" name="poll_{{ index }}" value="{{ match.teams[0] }}"
+                           {% if match.teams[0] == selected_options[index] %} checked {% endif %}><br>
+                    <label for="team_b_{{ index }}"> {{ match.teams[1] }}</label>
+                    <input type="radio" id="team_b_{{ index }}" name="poll_{{ index }}" value="{{ match.teams[1] }}"
+                           {% if match.teams[1] == selected_options[index] %} checked {% endif %}><br>
+                {% endfor %}
+            </div>
+            <input type="submit" value="Submit" class="btn btn-primary" id="submitButton" style="display: none;">
+        </form>
+        <div class="extra-space"></div>
+    </div>
+    {% include "footer.html" %}
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+    document.getElementById("pollForm").addEventListener("submit", function(event) {
+        var playerOption = document.querySelector('input[name="playerOption"]:checked').value;
+        var playerName;
+        if (playerOption === "existing") {
+            playerName = document.getElementById("playerOption").value.trim();
+        } else {
+            playerName = document.getElementById("newPlayer").value.trim();
+        }
+        if (!playerName) {
+            alert("Please select existing player or enter new player name.");
+            event.preventDefault(); // Prevent form submission if player name is not entered
+        }
+    });
+
+    document.getElementById("existingPlayerOption").addEventListener("change", function() {
+        document.getElementById("playerOption").disabled = !this.checked;
+        if (this.checked) {
+            document.getElementById("playerOption").focus();
+            document.getElementById("newPlayer").value = ""; // Clear new player name input
+        }
+    });
+
+    document.getElementById("newPlayerOption").addEventListener("change", function() {
+        document.getElementById("newPlayer").disabled = !this.checked;
+        if (this.checked) {
+            document.getElementById("newPlayer").focus();
+            document.getElementById("playerOption").selectedIndex = 0; // Deselect existing player
+        }
+    });
+
+    document.getElementById("playerOption").addEventListener("change", function() {
+        var playerName = this.value.trim();
+        if (playerName) {
+            document.getElementById("pollDates").style.display = "block";
+            document.getElementById("submitButton").style.display = "block";
+            document.getElementById("newPlayer").value = ""; // Clear new player name input
+        } else {
+            document.getElementById("pollDates").style.display = "none";
+            document.getElementById("submitButton").style.display = "none";
+        }
+    });
+
+    document.getElementById("newPlayer").addEventListener("input", function() {
+        var playerName = this.value.trim();
+        if (playerName) {
+            document.getElementById("pollDates").style.display = "block";
+            document.getElementById("submitButton").style.display = "block";
+            document.getElementById("playerOption").selectedIndex = 0; // Deselect existing player
+        } else {
+            document.getElementById("pollDates").style.display = "none";
+            document.getElementById("submitButton").style.display = "none";
+        }
+    });
+</script>
+</body>
+</html>

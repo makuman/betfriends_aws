@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard</title>
+<style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Player Stats</h1>
+    <table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Player Name</th>
+            <th>Invested Amount</th>
+            <th>Net Profit</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for player_stat in player_stats %}
+        <tr>
+            <td>{{ player_stat.player }}</td>
+            <td>{{ player_stat.invested_amount }}</td>
+            <td>{{ player_stat.net_profit }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+</body>
+</html>

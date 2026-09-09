@@ -1,0 +1,551 @@
+{
+  "apikey": "YOUR_CRICAPI_KEY",
+  "data": [
+    {
+      "id": "204b7706-5355-4417-8ab6-bf8bedd49233",
+      "name": "Zimbabwe Women vs Papua New Guinea Women, 3rd ODI",
+      "matchType": "t20",
+      "status": "Zimbabwe Women won by 35 runs",
+      "venue": "Harare Sports Club, Harare",
+      "date": "2024-03-28",
+      "dateTimeGMT": "2024-03-28T07:15:00",
+      "teams": [
+        "Zimbabwe Women",
+        "Papua New Guinea Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Papua New Guinea Women",
+          "shortname": "PN -W",
+          "img": "https://g.cricapi.com/iapi/2425-637991983542500362.webp?w=48"
+        },
+        {
+          "name": "Zimbabwe Women",
+          "shortname": "ZIMW",
+          "img": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 184,
+          "w": 10,
+          "o": 46.4,
+          "inning": "Zimbabwe Women Inning 1"
+        },
+        {
+          "r": 149,
+          "w": 10,
+          "o": 42.2,
+          "inning": "Papua New Guinea Women Inning 1"
+        }
+      ],
+      "series_id": "9de5eafe-f2da-4800-bb77-86b6ade81729",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "9bae2f6a-7a11-4bb3-8033-35ebc736b7c6",
+      "name": "South Africa Women vs Sri Lanka Women, 1st T20I",
+      "matchType": "t20",
+      "status": "South Africa Women won by 79 runs",
+      "venue": "Willowmoore Park, Benoni",
+      "date": "2024-03-27",
+      "dateTimeGMT": "2024-03-27T16:00:00",
+      "teams": [
+        "South Africa Women",
+        "Sri Lanka Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "South Africa Women",
+          "shortname": "RSAW",
+          "img": "https://g.cricapi.com/iapi/83-637877067733114809.webp?w=48"
+        },
+        {
+          "name": "Sri Lanka Women",
+          "shortname": "SLW",
+          "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 198,
+          "w": 5,
+          "o": 20,
+          "inning": "South Africa Women Inning 1"
+        },
+        {
+          "r": 119,
+          "w": 10,
+          "o": 18.2,
+          "inning": "Sri Lanka Women Inning 1"
+        }
+      ],
+      "series_id": "a6a96727-a354-4f79-b169-2346d8dde836",
+      "fantasyEnabled": false,
+      "bbbEnabled": true,
+      "hasSquad": false,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "8c5e64ec-eb80-4aac-86e3-563cfbdf4c49",
+      "name": "Limpopo vs South Western Districts, 21st Match",
+      "matchType": "t20",
+      "status": "Limpopo won by 36 runs",
+      "venue": "Polokwane Cricket Club, Polokwane",
+      "date": "2024-03-27",
+      "dateTimeGMT": "2024-03-27T11:00:00",
+      "teams": [
+        "Limpopo",
+        "South Western Districts"
+      ],
+      "teamInfo": [
+        {
+          "name": "Limpopo",
+          "shortname": "LIMPO",
+          "img": "https://g.cricapi.com/iapi/42-637991993542281273.webp?w=48"
+        },
+        {
+          "name": "South Western Districts",
+          "shortname": "SWD",
+          "img": "https://g.cricapi.com/iapi/85-637993498736049006.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 136,
+          "w": 9,
+          "o": 20,
+          "inning": "Limpopo Inning 1"
+        },
+        {
+          "r": 100,
+          "w": 10,
+          "o": 18.1,
+          "inning": "South Western Districts Inning 1"
+        }
+      ],
+      "series_id": "d44f401b-78b5-4231-b0a9-7f01048af966",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "992465f4-a246-4b94-b497-6952ad9e6a8d",
+      "name": "Border vs Mpumalanga Rhinos, 19th Match",
+      "matchType": "t20",
+      "status": "Border won by 6 wkts - 14-over match",
+      "venue": "Buffalo Park, East London",
+      "date": "2024-03-27",
+      "dateTimeGMT": "2024-03-27T11:00:00",
+      "teams": [
+        "Border",
+        "Mpumalanga Rhinos"
+      ],
+      "teamInfo": [
+        {
+          "name": "Border",
+          "shortname": "BR",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Mpumalanga Rhinos",
+          "shortname": "MPR",
+          "img": "https://g.cricapi.com/iapi/49-637991993271802283.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 109,
+          "w": 6,
+          "o": 14,
+          "inning": "Mpumalanga Rhinos Inning 1"
+        },
+        {
+          "r": 115,
+          "w": 4,
+          "o": 13,
+          "inning": "Border Inning 1"
+        }
+      ],
+      "series_id": "d44f401b-78b5-4231-b0a9-7f01048af966",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "4cb8739e-4c0b-43cc-87ca-c3c6daf9ff48",
+      "name": "Lions vs Warriors, 26th Match",
+      "matchType": "t20",
+      "status": "Warriors won by 2 runs",
+      "venue": "The Wanderers Stadium, Johannesburg",
+      "date": "2024-03-27",
+      "dateTimeGMT": "2024-03-27T16:00:00",
+      "teams": [
+        "Lions",
+        "Warriors"
+      ],
+      "teamInfo": [
+        {
+          "name": "Lions",
+          "shortname": "LIONS",
+          "img": "https://g.cricapi.com/iapi/43-638016114998237773.webp?w=48"
+        },
+        {
+          "name": "Warriors",
+          "shortname": "WAR",
+          "img": "https://g.cricapi.com/iapi/98-637987556857963180.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 173,
+          "w": 4,
+          "o": 20,
+          "inning": "Warriors Inning 1"
+        },
+        {
+          "r": 171,
+          "w": 7,
+          "o": 20,
+          "inning": "Lions Inning 1"
+        }
+      ],
+      "series_id": "ff9815b1-91cf-49a7-b141-ff1c16bb5b17",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "c6b5f937-ea8e-4022-8fb5-80c61f1149e5",
+      "name": "KwaZulu-Natal Inland vs Western Province, 25th Match",
+      "matchType": "t20",
+      "status": "Western Province won by 48 runs",
+      "venue": "City Oval, Pietermaritzburg",
+      "date": "2024-03-27",
+      "dateTimeGMT": "2024-03-27T11:00:00",
+      "teams": [
+        "KwaZulu-Natal Inland",
+        "Western Province"
+      ],
+      "teamInfo": [
+        {
+          "name": "KwaZulu-Natal Inland",
+          "shortname": "KZ",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "Western Province",
+          "shortname": "WPR",
+          "img": "https://g.cricapi.com/iapi/104-637987555401464222.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 208,
+          "w": 6,
+          "o": 20,
+          "inning": "Western Province Inning 1"
+        },
+        {
+          "r": 160,
+          "w": 7,
+          "o": 20,
+          "inning": "KwaZulu-Natal Inland Inning 1"
+        }
+      ],
+      "series_id": "ff9815b1-91cf-49a7-b141-ff1c16bb5b17",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "408b9bdd-3b7f-429a-9033-263d30115492",
+      "name": "Bangladesh Women vs Australia Women, 3rd ODI (ICC Championship Match)",
+      "matchType": "odi",
+      "status": "Australia Women won by 8 wkts",
+      "venue": "Shere Bangla National Stadium, Dhaka",
+      "date": "2024-03-27",
+      "dateTimeGMT": "2024-03-27T03:30:00",
+      "teams": [
+        "Bangladesh Women",
+        "Australia Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia Women",
+          "shortname": "AUSW",
+          "img": "https://g.cricapi.com/iapi/7-637877070884402012.webp?w=48"
+        },
+        {
+          "name": "Bangladesh Women",
+          "shortname": "BANW",
+          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 89,
+          "w": 10,
+          "o": 26.2,
+          "inning": "Bangladesh Women Inning 1"
+        },
+        {
+          "r": 93,
+          "w": 2,
+          "o": 18.3,
+          "inning": "Australia Women Inning 1"
+        }
+      ],
+      "series_id": "7d35034a-6400-4189-bab0-1b5e6d5c634a",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "92c6e89f-b512-4eb3-969b-71505eae6e0e",
+      "name": "Rajasthan Royals vs Delhi Capitals, 9th Match",
+      "matchType": "t20",
+      "status": "Rajasthan Royals won by 12 runs",
+      "venue": "Sawai Mansingh Stadium, Jaipur",
+      "date": "2024-03-28",
+      "dateTimeGMT": "2024-03-28T14:00:00",
+      "teams": [
+        "Rajasthan Royals",
+        "Delhi Capitals"
+      ],
+      "teamInfo": [
+        {
+          "name": "Delhi Capitals",
+          "shortname": "DC",
+          "img": "https://g.cricapi.com/iapi/148-637874596301457910.png?w=48"
+        },
+        {
+          "name": "Rajasthan Royals",
+          "shortname": "RR",
+          "img": "https://g.cricapi.com/iapi/251-637852956607161886.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 185,
+          "w": 5,
+          "o": 20,
+          "inning": "Rajasthan Royals Inning 1"
+        },
+        {
+          "r": 173,
+          "w": 5,
+          "o": 20,
+          "inning": "Delhi Capitals Inning 1"
+        }
+      ],
+      "series_id": "76ae85e2-88e5-4e99-83e4-5f352108aebc",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "08a8976e-e289-499e-ab63-9a56acf8857b",
+      "name": "Sunrisers Hyderabad vs Mumbai Indians, 8th Match",
+      "matchType": "t20",
+      "status": "Sunrisers Hyderabad won by 31 runs",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "date": "2024-03-27",
+      "dateTimeGMT": "2024-03-27T14:00:00",
+      "teams": [
+        "Sunrisers Hyderabad",
+        "Mumbai Indians"
+      ],
+      "teamInfo": [
+        {
+          "name": "Mumbai Indians",
+          "shortname": "MI",
+          "img": "https://g.cricapi.com/iapi/226-637852956375593901.png?w=48"
+        },
+        {
+          "name": "Sunrisers Hyderabad",
+          "shortname": "SRH",
+          "img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 277,
+          "w": 3,
+          "o": 20,
+          "inning": "Sunrisers Hyderabad Inning 1"
+        },
+        {
+          "r": 246,
+          "w": 5,
+          "o": 20,
+          "inning": "Mumbai Indians Inning 1"
+        }
+      ],
+      "series_id": "76ae85e2-88e5-4e99-83e4-5f352108aebc",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "1b0b9171-a812-4ed1-8518-18beb7599fda",
+      "name": "Central Districts vs Otago, 22nd Match",
+      "matchType": "test",
+      "status": "Central Districts won by an innings and 40 runs",
+      "venue": "McLean Park, Napier",
+      "date": "2024-03-23",
+      "dateTimeGMT": "2024-03-23T21:30:00",
+      "teams": [
+        "Central Districts",
+        "Otago"
+      ],
+      "teamInfo": [
+        {
+          "name": "Central Districts",
+          "shortname": "CD",
+          "img": "https://g.cricapi.com/iapi/16-637993517837161031.webp?w=48"
+        },
+        {
+          "name": "Otago",
+          "shortname": "OTG",
+          "img": "https://g.cricapi.com/iapi/65-637992667637799448.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 309,
+          "w": 10,
+          "o": 84.5,
+          "inning": "Otago Inning 1"
+        },
+        {
+          "r": 580,
+          "w": 10,
+          "o": 169.3,
+          "inning": "Central Districts Inning 1"
+        },
+        {
+          "r": 231,
+          "w": 10,
+          "o": 87.2,
+          "inning": "Otago Inning 2"
+        }
+      ],
+      "series_id": "4ae7759c-56a0-4a38-9dcd-20147d42c344",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "820c4abc-2e52-41aa-8526-9bc877666491",
+      "name": "New Zealand Women vs England Women, 5th T20I",
+      "matchType": "t20",
+      "status": "Match not started",
+      "venue": "Basin Reserve, Wellington",
+      "date": "2024-03-29",
+      "dateTimeGMT": "2024-03-29T00:00:00",
+      "teams": [
+        "New Zealand Women",
+        "England Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "England Women",
+          "shortname": "ENGW",
+          "img": "https://g.cricapi.com/iapi/24-637877067109151578.webp?w=48"
+        },
+        {
+          "name": "New Zealand Women",
+          "shortname": "NZW",
+          "img": "https://g.cricapi.com/iapi/58-637877077173296488.webp?w=48"
+        }
+      ],
+      "score": [],
+      "series_id": "fcdba53f-ab56-4b26-be78-ece70e0e25be",
+      "fantasyEnabled": false,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": false,
+      "matchEnded": false
+    },
+    {
+      "id": "a6df5f96-9f3c-4555-9298-a3a57a3344d0",
+      "name": "New Zealand Women vs England Women, 4th T20I",
+      "matchType": "t20",
+      "status": "England Women won by 47 runs",
+      "venue": "Basin Reserve, Wellington",
+      "date": "2024-03-27",
+      "dateTimeGMT": "2024-03-27T00:00:00",
+      "teams": [
+        "New Zealand Women",
+        "England Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "England Women",
+          "shortname": "ENGW",
+          "img": "https://g.cricapi.com/iapi/24-637877067109151578.webp?w=48"
+        },
+        {
+          "name": "New Zealand Women",
+          "shortname": "NZW",
+          "img": "https://g.cricapi.com/iapi/58-637877077173296488.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 177,
+          "w": 3,
+          "o": 20,
+          "inning": "England Women Inning 1"
+        },
+        {
+          "r": 130,
+          "w": 7,
+          "o": 20,
+          "inning": "New Zealand Women Inning 1"
+        }
+      ],
+      "series_id": "fcdba53f-ab56-4b26-be78-ece70e0e25be",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    }
+  ],
+  "status": "success",
+  "info": {
+    "hitsToday": 40,
+    "hitsUsed": 1,
+    "hitsLimit": 100,
+    "credits": 0,
+    "server": 11,
+    "offsetRows": 0,
+    "totalRows": 12,
+    "queryTime": 31.6115,
+    "s": 0,
+    "cache": 0
+  }
+}

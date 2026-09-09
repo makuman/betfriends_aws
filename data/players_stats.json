@@ -1,0 +1,57 @@
+[
+    {
+        "player_name": "test1",
+        "poll_responses": [
+            {
+                "date": "2024-03-31",
+                "match_number": "12",
+                "response": "Gujarat Titans"
+            },
+            {
+                "date": "2024-03-31",
+                "match_number": "13",
+                "response": "Chennai Super Kings"
+            },
+            {
+                "date": "2024-04-01",
+                "match_number": "14",
+                "response": "Mumbai Indians"
+            },
+            {
+                "date": "2024-04-02",
+                "match_number": "15",
+                "response": "Royal Challengers Bengaluru"
+            }
+        ],
+        "comparison_results": [
+            {
+                "date": "2024-03-31",
+                "match_number": "12",
+                "selected_team": "Gujarat Titans",
+                "winning_team": "Gujarat Titans",
+                "score": 1
+            },
+            {
+                "date": "2024-03-31",
+                "match_number": "13",
+                "selected_team": "Chennai Super Kings",
+                "winning_team": "Delhi Capitals",
+                "score": 0
+            },
+            {
+                "date": "2024-04-01",
+                "match_number": "14",
+                "selected_team": "Mumbai Indians",
+                "winning_team": "Rajasthan Royals",
+                "score": 0
+            },
+            {
+                "date": "2024-04-02",
+                "match_number": "15",
+                "selected_team": "Royal Challengers Bengaluru",
+                "winning_team": "Lucknow Super Giants",
+                "score": 0
+            }
+        ]
+    }
+]

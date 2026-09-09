@@ -1,0 +1,20 @@
+# Secrets / local config
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Editor
+.idea/
+.vscode/
+.DS_Store
+
+# Scratch / throwaway test scripts
+test.py
+test1.py
